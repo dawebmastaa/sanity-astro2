@@ -1,0 +1,5 @@
+{
+	"runtime": "nodejs18.x",
+	"handler": "media/mikea/86022EF5022EE9BF/web/repos/sanity-astro2/dist/pages/post/entry._slug_.astro.mjs",
+	"launcherType": "Nodejs"
+}

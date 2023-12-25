@@ -1,0 +1,1 @@
+import{DocumentPane as m}from"./index-ccbd3c57.7cfc43ae.js";import{D as n}from"./StudioComponent.af0399f8.js";import"./client.699a051d.js";import"./index.86dafb11.js";export{n as DocumentPaneProvider,m as default};
